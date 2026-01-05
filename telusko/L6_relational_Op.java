@@ -16,6 +16,7 @@ public class L6_relational_Op {
         // boolean result = x >= y;
         
 
+        // System.out.println(result);
         System.out.println(result);
     }
 }
