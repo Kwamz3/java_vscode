@@ -1,4 +1,4 @@
-public class L7_logical_Op {
+public class L7_logical_op {
     public static void main(String[] args) {
         
         

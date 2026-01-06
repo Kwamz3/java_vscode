@@ -1,4 +1,4 @@
-public class L6_relational_Op {
+public class L6_relational_op {
     public static void main(String[] args) {
 
         int x = 6;
