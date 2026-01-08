@@ -1,4 +1,4 @@
-public class L9_if_Else_if {
+public class L9_if_else_if {
      public static void main(String[] args) {
         
         // int x = 28;

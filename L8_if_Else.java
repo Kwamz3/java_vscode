@@ -1,4 +1,4 @@
-public class L8_if_Else {
+public class L8_if_else {
     public static void main(String[] args) {
         
         // int x = 28;
