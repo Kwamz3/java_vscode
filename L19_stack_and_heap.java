@@ -1,4 +1,4 @@
-class Calculator {
+class Calculator2 {
     
     public int add(int n1, int n2) {
         return n1 + n2;
@@ -14,7 +14,7 @@ public class L19_stack_and_heap {
         // Heap is an open pool of data
         // Every method has it's own stack
 
-        Calculator obj = new Calculator();
+        Calculator2 obj = new Calculator2();
         // (obj)This is a reference variable that is in the heap memory
         // also local variables like n1 and n2 are declared in a stack
         // while instance variables are in the heap memory 
