@@ -27,5 +27,3 @@ public class L17_methods {
 
     }
 }
-
-// Next video 25
