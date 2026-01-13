@@ -45,5 +45,3 @@ public class L24_array_of_objects {
         // }
     }
 }
-
-// Next video 32
