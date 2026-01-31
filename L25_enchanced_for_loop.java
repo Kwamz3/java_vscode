@@ -46,5 +46,3 @@ public class L25_enchanced_for_loop {
         }
     }
 }
-
-// Next video 34
