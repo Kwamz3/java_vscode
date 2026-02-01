@@ -17,5 +17,3 @@ public class L26_what_is_string {
         System.out.println(name2);
     }
 }
-
-// Next video 35
