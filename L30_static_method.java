@@ -14,6 +14,8 @@ class Mobile {
     // you can call a static method with the class name of the method
     public static void show1() {
         System.out.println("In static method...");
+        // you cannot use an instance variable in a static method because instance variables can differ from each other especially
+        // with the same variable name and to avoid confusion of which variable is being referred to this is not allowed
     }
 }
 
